@@ -1,1 +1,1 @@
-# convert-OpenLDAP-to-AD
+# Convert accounts from OpenLDAP to Active directory.
