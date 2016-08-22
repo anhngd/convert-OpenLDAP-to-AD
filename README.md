@@ -1,1 +1,3 @@
-# Convert accounts from OpenLDAP to Active directory.
+# Convert accounts from OpenLDAP to Active Directory.
+
+- Visual studio 2015 
